@@ -14,11 +14,11 @@ A high-performance deep learning model trained on American Sign Language (ASL) a
 
 ## Features
 
-- ✅ Mixed precision (`float16`) training with GPU acceleration
-- ✅ Fast data pipeline using `tf.data`
-- ✅ Early stopping and model checkpointing
-- ✅ Model saved in modern `.keras` format
-- ✅ Ready for Colab with Drive integration
+-   Mixed precision (`float16`) training with GPU acceleration
+-   Fast data pipeline using `tf.data`
+-   Early stopping and model checkpointing
+-   Model saved in modern `.keras` format
+-   Ready for Colab with Drive integration
 
 ---
 
